@@ -1,3 +1,10 @@
 h1{
     background-color: #ccc;
+    animation: lin 5s linear;
+}
+
+@keyframes lin {
+    100%{
+        background-image: linear-gradient(to left,orange,pink);
+    }
 }
