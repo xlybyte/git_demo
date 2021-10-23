@@ -3,4 +3,5 @@ function get1() {
 }
 function get2() {
     console.log(2);
+    console.log('2021.10.26');
 }
